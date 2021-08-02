@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/jairodealmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairodealmeida&show_icons=true&include_all_commits=true&count_private=true"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairodealmeida&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,8 +15,5 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
- ## My Courses Page
- <a href="https://datakode.com.br">
-
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairodealmeida&layout=compact)](https://github.com/jairodealmeida/github-readme-stats)
+ ## See more
+ <a href="https://datakode.com.br/">
