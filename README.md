@@ -34,11 +34,9 @@
  
  <div>
  
- ## See more
+ ## My Page
    
  ### Courses portal -> <a href="https://datakode.com.br">dataKode.com.br</a>
- 
- ### Whats API -> <a href="https://whats-api.online">whats-api.online</a>
   
  </div>
 
