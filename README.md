@@ -15,5 +15,8 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
- ## See more
+ ## My Courses Page
  href="https://datakode.com.br/">
+
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairodealmeida&layout=compact)](https://github.com/jairodealmeida/github-readme-stats)
