@@ -15,11 +15,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
- ### Courses portal 
- <a href="https://datakode.com.br">dataKode.com.br</a>
- 
- ### Whats API 
- <a href="https://whats-api.online">whats-api.online</a>
+
  
 
  
@@ -31,9 +27,20 @@
   <a href = "mailto:contato@jairodealmeida.gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jairodealmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/jairodealmeida/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jairodealmeida/jairodealmeida/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 
+ 
+ <div>
+ ## See more
+  
+ ### Courses portal -> <a href="https://datakode.com.br">dataKode.com.br</a>
+ 
+ ### Whats API -> <a href="https://whats-api.online">whats-api.online</a>
+  
+ </div>
 
  
  
