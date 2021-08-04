@@ -36,7 +36,7 @@
  
  ## My Page
    
- ### Courses portal -> <a href="https://datakode.com.br">dataKode.com.br</a>
+ ### Courses portal -> <a href="https://datakode.com.br" target="_blank">dataKode.com.br</a>
   
  </div>
 
